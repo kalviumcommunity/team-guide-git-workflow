@@ -12,7 +12,7 @@ https://github.com/kalviumcommunity/team-guide-git-workflow
 
 Use free GitHub and Git Bash, or Bash with Git on Linux/macOS. Before assessment, sign in to GitHub, check Git author name/email and test push authentication. Never include passwords/tokens in screenshots. No paid tools, partner or administrator permissions required.
 
-On starter page select **Use this template > Create a new repository**, choose your account, a new repository name and public visibility. This creates your independent copy, not a fork. Clone YOUR repository, enter its folder and start on `main`. Do not clone the shared template and try to push to it. Ask instructor to resolve setup/authentication problems before starting tasks. A private reference may be used by instructor; visibility and ownership are not graded criteria.
+On starter page select **Use this template > Create a new repository**, choose your account, a new repository name and public visibility. This creates your independent copy, not a fork. Wait until its `main` branch displays both `README.md` and `team-guide.txt` before cloning; template creation can take a moment. Clone YOUR repository, enter its folder and start on `main`. Do not clone the shared template and try to push to it. Ask instructor to resolve setup/authentication problems before starting tasks. A private reference may be used by instructor; visibility and ownership are not graded criteria.
 
 Starter contains README.md and team-guide.txt. It is a working workflow starting point, not broken application code. Preserve starter files and initial commit. Use GitHub website for PR actions; GitHub CLI is an optional equivalent, not a required installation.
 
