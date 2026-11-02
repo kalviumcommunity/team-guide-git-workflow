@@ -1,0 +1,2 @@
+Team onboarding guide
+Keep changes small and readable.
